@@ -20,7 +20,7 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 - Windows 10 machine joined to the domain
 
 ### Virtualization
-- VMware
+- VMware Workstation Pro 17.5
 
 ---
 
@@ -32,9 +32,15 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 - Fantastic Four
 
 ### Users
-- Avengers26S
-- Xmen26S
-- Fantastic426S
+- Thor Odinson/todinson26S
+- Tony Stark/tstark26S
+- Bruce Banner/bbanner26S
+- James Howlett/jhowlett26S
+- Ororo Munroe/omunroe26S
+- Jean Grey/jgrey26S
+- Johnny Storm/jstorm26S
+- Sue Storm/jstorm26S
+- 
 
 ### Groups
 - G_Avengers26S
